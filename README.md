@@ -33,11 +33,28 @@ Idea: Online market place where used cars can be bought from sellers and sold to
 - Headline: Convey safety for reassurance since that's probably the main objection.
 
 ## Day 2/30
+
 ![TrackList App](./screenshots/Track-List-App.png)
 
-Idea: A goal-oriented task list app that helps you achieve your goals by tracking your progress and mapping it to a calendar.
+**Idea**: A goal-oriented task list app that helps you achieve your goals by tracking your progress and mapping it to a calendar.
 
 **Thought Process:**
+
 - Image: Shows illustrations of how the app works
 - Color: Used a monochromatic color to convey calm and soothing feeling.
 - Headline: Communicates support of helping users track and achieve their goals
+
+## Day 3/30
+
+![Solar Panel1](./screenshots/solarpanel.png)
+
+Concept 2:
+![Solar Panel 2](./screenshots/solarpanel-art2.png)
+
+**Idea**: A solar panel that is cheap, durable, and highly efficient.
+
+**Thought Process:**
+
+- Image: An image of a solar panel to showcase what the company is selling
+- Color: Black and White to convey premium and durability
+- Headline: Convince buyers that the product they want to buyis durable, highly effienct, and cheap.
