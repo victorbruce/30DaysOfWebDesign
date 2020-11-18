@@ -58,3 +58,20 @@ Concept 2:
 - Image: An image of a solar panel to showcase what the company is selling
 - Color: Black and White to convey premium and durability
 - Headline: Convince buyers that the product they want to buyis durable, highly effienct, and cheap.
+
+## Day 4/30
+
+![Creators 1](./screenshots/Creators1.png)
+
+Concept 2:
+![Creators 2](./screenshots/Creators2.png)
+
+**Idea**: A startup that helps content creators such as videographers, monetize their work.
+
+**Thought Process:**
+
+- Image: The background picture shows a camera which is an important tool used by creatives(videographers) to perform their work.
+
+- Color: Black and White to convey luxury, premium, and quality service.
+
+- Headline: Communicates the benefit of using the platform which is, making money as a creative.
