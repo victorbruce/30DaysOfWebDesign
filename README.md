@@ -98,3 +98,16 @@ Concept 2:
 
 - Headline: Inform users on how to create their own 3D parts with the help of the company.
 
+## Day 6/30
+
+![Donation hero section](./screenshots/donation-1.png)
+
+**Idea**: A startup that gives users an easy way to make a donation to a cause of their choice. The startup is looking to increase the number of causes a person can donate to by cutting down on the number of steps required to do so.
+
+**Thought Process:**
+
+- Image: Use memojis to communicate better the feelings of people that need help.
+
+- Color: Black and White.
+
+- Headline: Communicates the end-goal of the platform and how users can donate to a cause or project.
