@@ -64,6 +64,7 @@ Concept 2:
 ![Creators 1](./screenshots/Creators1.png)
 
 Concept 2:
+
 ![Creators 2](./screenshots/Creators2.png)
 
 **Idea**: A startup that helps content creators such as videographers, monetize their work.
@@ -75,3 +76,25 @@ Concept 2:
 - Color: Black and White to convey luxury, premium, and quality service.
 
 - Headline: Communicates the benefit of using the platform which is, making money as a creative.
+
+
+## Day 5/30
+
+Concept 1:
+
+![3D hero section](./screenshots/3D-art1.png)
+
+Concept 2:
+
+![3D hero section](./screenshots/3D-art2.png)
+
+**Idea**: A high-speed way to create custom-made, high resolution 3D printed parts
+
+**Thought Process:**
+
+- Image: Show images of 3D objects to match the headline
+
+- Color: Black and White. Added images with pink background to give a calm feeling.
+
+- Headline: Inform users on how to create their own 3D parts with the help of the company.
+
