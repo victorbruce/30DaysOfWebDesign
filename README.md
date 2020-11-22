@@ -77,7 +77,6 @@ Concept 2:
 
 - Headline: Communicates the benefit of using the platform which is, making money as a creative.
 
-
 ## Day 5/30
 
 Concept 1:
@@ -111,3 +110,31 @@ Concept 2:
 - Color: Black and White.
 
 - Headline: Communicates the end-goal of the platform and how users can donate to a cause or project.
+
+## Day 7/30
+
+![Freelance hero section](./screenshots/freelance.png)
+
+**Idea**: A company that helps freelance and on-call workers find jobs.
+
+**Thought Process:**
+
+- Image: Show an image of a worker.
+
+- Color: White and Green to give it a coporeate feel.
+
+- Headline: Communicate to potential users of the website on how to find their next job or income.
+
+## Day 8/30
+
+![Client panel hero section](./screenshots/clientpanel.png)
+
+**Idea**: An app for businesses to manage their customers
+
+**Thought Process:**
+
+- Image: Show an illustration of people working.
+
+- Color: Blue and white to show trust in the brand/business.
+
+- Headline: Communicate the services the platform provides.
