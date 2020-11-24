@@ -139,7 +139,6 @@ Concept 2:
 
 - Headline: Communicate the services the platform provides.
 
-
 ## Day 9/30
 
 ![Decor home screen](./screenshots/Decor.png)
@@ -153,3 +152,17 @@ Concept 2:
 - Color: I used white for the text and a black overlay to make the text on the image more readable.
 
 - Headline: Inform the users what type of products the platform offers.
+
+## Day 10/30
+
+![Payment home screen](./screenshots/Payment.png);
+
+**Idea**: A mobile payments company that provides a way to pay in-app purchases through Apple pay, Android pay, and Samsung pay.
+
+**Thought Process:**
+
+- Image: Show images of some one interacting with a phone as well as shopping.
+
+- Color: To achieve a premium look and feel, I used purple for the backgrounds and white for the text.
+
+- Headline: Inform users of how they can make payments through various payment services on the platform.
