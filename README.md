@@ -138,3 +138,18 @@ Concept 2:
 - Color: Blue and white to show trust in the brand/business.
 
 - Headline: Communicate the services the platform provides.
+
+
+## Day 9/30
+
+![Decor home screen](./screenshots/Decor.png)
+
+**Idea**: A software platform that helps people shop for second-hand funiture and decor.
+
+**Thought Process:**
+
+- Image: Show an image of a furniture.
+
+- Color: I used white for the text and a black overlay to make the text on the image more readable.
+
+- Headline: Inform the users what type of products the platform offers.
