@@ -166,3 +166,59 @@ Concept 2:
 - Color: To achieve a premium look and feel, I used purple for the backgrounds and white for the text.
 
 - Headline: Inform users of how they can make payments through various payment services on the platform.
+
+## Day 11/30
+
+![Livestream home screen](./screenshots/livestream.png);
+
+**Idea**: A live broadcast company for athletes and sports teams.
+
+**Thought Process:**
+
+- Image: Show an image of a sports athlete in a game.
+
+- Color: To achieve a premium and minimal look, I used a plain white background with a black text.
+
+- Headline: In form users that they can stream live sports events for free.
+
+## Day 12/30
+
+![theGarage home screen](./screenshots/theGarage.png);
+
+**Idea**: A startup that lets people easily find nearby parking garages.
+
+**Thought Process:**
+
+- Image: Show an image of a parking garage.
+
+- Color: Used black and white colors to achieve a clean and simple interface.
+
+- Headline: Let users know how to find a parking garage with the help of a search input box.
+
+## Day 13/30
+
+![RoomService home screen](./screenshots/roomservice.png);
+
+**Idea**: A startup that makes it possible to order room service from your hotel.
+
+**Thought Process:**
+
+- Color: Black and white to keep things simple, minimal, and clean.
+
+- Headline: Tell users to order for a room service.
+
+
+## Day 14/30
+
+![eShare home screen](./screenshots/eShare.png);
+
+**Idea**: A startup company working on a platform where people can create and share their own ebooks, textbooks
+and documentations.
+
+**Thought Process:**
+
+- Image: Show an illustration of someone writing.
+
+- Color: Used different shades of papaya whip.
+
+- Headline: Tell the users what the platform is about.
