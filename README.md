@@ -207,7 +207,6 @@ Concept 2:
 
 - Headline: Tell users to order for a room service.
 
-
 ## Day 14/30
 
 ![eShare home screen](./screenshots/eShare.png);
@@ -222,3 +221,17 @@ and documentations.
 - Color: Used different shades of papaya whip.
 
 - Headline: Tell the users what the platform is about.
+
+## Day 15/30
+
+![MicroTrans home screen](./screenshots/microtrans.png);
+
+**Idea**: A platform for micro-transactions for online merchants. The startup wants to eliminate the need for credit cards.
+
+**Thought Process:**
+
+- Image: Show an illustration of a user holding a phone.
+
+- Color: Used different shades of green.
+
+- Headline: Describes what the platform is about and who it is intended for.
